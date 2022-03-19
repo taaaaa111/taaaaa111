@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **taaaaa111/taaaaa111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Taos</h1>
-<h3 align="center">Follow my progress in coding through my repo</h3>
+<h3 align="center">Follow my progress in coding through my repository</h3>
 <img align="right" alt="Coding" width="300px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taosthr&label=Profile%20views&color=0e75b6&amp;style=flat" alt="taosthr" /> </p>
