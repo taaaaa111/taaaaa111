@@ -1,17 +1,19 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"></img>
 
 <h1 align="center">Hi 👋, I'm Taos </h1>
-<h3 align="center">Follow my progress in coding through my repository</h3>
 <img align="right" alt="Coding" width="250px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
+<h3 align="center">Follow my progress in coding through my repository</h3>
 
-## About me 
+<h2 align="left">About me </h2>
+
+
 🌱 I’m currently learning to code at **THP bootcamp**
 
 ⚡ Fun fact i'm a **biochemistry** and **ex project manager** in IT field
 
 💬 Feel free to reach me on Linkedin 
-
+<br/><br/>
 
 ## Connect with me
 <p align="left">
