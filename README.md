@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning to code at **THP bootcamp** 
 
-⚡ Fun fact i'm a **Biochemistry** and **ex Project Manager** in IT field
+⚡ Fun fact I'm a **Biochemistry** and **ex Project Manager** in IT field
 
 💬 Feel free to reach me on Linkedin 
 <br/><br/>
