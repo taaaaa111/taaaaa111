@@ -10,8 +10,8 @@
 
 🌱 I'm currently undertaking a **coding bootcamp**
 
-⚡ Fun fact I'm a **Biochemistry** and **ex Project Manager** 
-  in IT field
+⚡ Fun fact I'm a **Biochemistry** 
+  and **ex Project Manager** in IT field
 
 💬 Feel free to reach me on Linkedin 
 
