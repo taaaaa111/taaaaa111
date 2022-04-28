@@ -1,7 +1,7 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif"></img>
 
 <h1 align="center">Hi 👋, I'm Taos </h1>
-<h3 align="center">Follow my conding progress through my repository </h3>
+<h3 align="center">Follow my coding progress through my repository </h3>
 
 
 <h2 align="left">About me </h2>
