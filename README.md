@@ -6,7 +6,7 @@
 
 <h2 align="left">About me </h2>
 
-<img align="right" alt="Coding" width="200rem" height="150rem" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="200rem" height="170rem" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 🌱 I'm currently undertaking a **coding bootcamp**
 
